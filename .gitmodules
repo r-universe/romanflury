@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mrbsizeR"]
+	path = mrbsizeR
+	url = https://github.com/romanflury/mrbsizer
+	shallow = true
+	registered = true
